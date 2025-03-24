@@ -1,4 +1,4 @@
-## CoyoteSix：读取游戏内死亡信息等实时数据，改变郊狼强度
+# xyn军火库之CoyoteSix：读取彩虹六号游戏内死亡信息等实时数据，改变郊狼强度
 
 Edit: This project is currently not actively managed. Please read my code, understand the logic, and write your own implementation.
 
@@ -12,7 +12,7 @@ You can try applying for a R6 Tracker developer account. R6 Tracker, which is gr
 
 R6 Tracker有提供这样的API，你可以申请开发者账号，但过程非常严格和麻烦。
 
-### A Simple Explanation
+## A Simple Explanation
 
 xyn军火库+1。大概就是通过OBS读取屏幕上的像素点来判断生存、死亡、游戏结束。育碧没给API，但你也别问我为什么不用Vulkan/DX11/DX12缓冲区，一是我不会，二是Vulkan被狗日的育碧移除了，三是性能问题，四是你号不想要了是吧？你tm干脆直接读内存算了，举头三尺有神明，BattlEye都看着呢！这都得应验的。————习近平
 
