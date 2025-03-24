@@ -12,3 +12,8 @@ You can try applying for a R6 Tracker developer account. R6 Tracker, which is gr
 
 R6 Tracker有提供这样的API，你可以申请开发者账号，但过程非常严格和麻烦。
 
+### A Simple Explanation
+
+xyn军火库+1。大概就是通过OBS读取屏幕上的像素点来判断生存、死亡、游戏结束。育碧没给API，但你也别问我为什么不用Vulkan/DX11/DX12缓冲区，一是我不会，二是Vulkan被狗日的育碧移除了，三是性能问题，四是你号不想要了是吧？你tm干脆直接读内存算了，举头三尺有神明，BattlEye都看着呢！这都得应验的。————习近平
+
+Basically, it determines survival, death, and game over by reading the pixels on the screen through OBS. Don’t ask me why I don’t use Vulkan/DX11/DX12 buffers—first, I don’t know how; second, Vulkan was damn removed by Ubisoft; third, performance issues; fourth, you wanna get your account banned or what? Might as well read memory directly, right? BattlEye is watching you bro
