@@ -1,4 +1,6 @@
-# xyn军火库之CoyoteSix：读取彩虹六号游戏内死亡信息等实时数据，改变郊狼强度
+# xyn军火库之CoyoteSix：读取彩虹六号游戏内死亡信息等实时数据，改变郊狼电击强度
+
+### Credit: https://github.com/DG-LAB-OPENSOURCE/DG-LAB-OPENSOURCE
 
 Edit: This project is currently not actively managed. Please read my code, understand the logic, and write your own implementation.
 
